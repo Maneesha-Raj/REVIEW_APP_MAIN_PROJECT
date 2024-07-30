@@ -40,7 +40,7 @@ The application has two main types of users:
 - View Your Reviews: View reviews written by the user.
 
 ## How to install:
-- git clone
+- git clone https://github.com/Maneesha-Raj/REVIEW_APP_MAIN_PROJECT.git
 - To run: docker compose up --build
 - You can access the application in your web browser at : http://localhost:3000
 
