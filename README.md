@@ -65,3 +65,6 @@ The application has two main types of users:
 - Add Product Form: Form to add new products.
 - Product Details Page: Displays detailed information about a product.
 - Reviews Page: Displays reviews for a product.
+
+- Video link :https://drive.google.com/file/d/1wGpgBEjUeG5XQAWdspMtpUopJ2H1BIOf/view?usp=drive_link
+- Workflow diagram link : https://drive.google.com/file/d/1ZRT1ACqSJ99bGs8nCbpj1c_qaO0SBsEl/view?usp=drive_link
